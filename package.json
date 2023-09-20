@@ -1,0 +1,26 @@
+{
+  "name": "gestion-estrategica",
+  "version": "1.0.0",
+  "description": "Aplicación para gestión de documentación estratégica de ID Logistics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelmatiasdelacruz/gestion-estrategica.git"
+  },
+  "author": "Nahuel De La Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelmatiasdelacruz/gestion-estrategica/issues"
+  },
+  "homepage": "https://github.com/nahuelmatiasdelacruz/gestion-estrategica#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "knex": "^2.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1"
+  }
+}
